@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GearTracker</string>
+    <string name="sample_text">sample_text</string>
+    <string name="string">string</string>
+    <string name="add_new_city">add_new_city</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="confirm">Confirm</string>
+    <string name="new_city">Add new city</string>
+    <string name="edit">Edit</string>
+    <string name="item_comment">Item comment:</string>
+    <string name="item_price">Item price:</string>
+    <string name="item_description">Item description:</string>
+    <string name="item_maker">Item maker:</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="textview">TextView</string>
+</resources>
